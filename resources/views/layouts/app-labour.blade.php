@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'บริษัทนำเข้าแรงงานต่างด้าว ดิ อิมพอร์ตเตอร์ 168 จำกัด')</title>
+    <title>@yield('title', 'บริษัทนำเข้าแรงงานต่างด้าว อาทิตยา 2017 จำกัด')</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 

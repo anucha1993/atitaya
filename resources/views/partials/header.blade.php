@@ -5,7 +5,7 @@
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.importer168.com">
+<meta property="og:url" content="https://www.atitaya.com">
 <meta property="og:title" content="บริษัทนำเข้าแรงงานต่างด้าว MOU บริการจัดหาแรงงานต่างด้าว พม่า ลาว กัมพูชา ถูกกฎหมาย">
 <meta property="og:description" content="บริการจัดหาแรงงานต่างด้าว 3 สัญชาติ พม่า กัมพูชา ลาว ผ่านระบบ MOU อย่างถูกกฎหมาย โดยผู้เชี่ยวชาญที่มีประสบการณ์กว่า 10 ปี">
 <meta property="og:image" content="{{ url('logo/logo-2-min.png') }}">
