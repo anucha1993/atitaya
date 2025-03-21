@@ -12,25 +12,23 @@
             </div>
             <div class="mb-4">
                 <h3 class="font-semibold">เบอร์ติดต่อ :</h3>
-                <p>092-254-5155</p>
+                <p>092-254-5155 คุณหนึ่งฤทัย เศรษฐศักดิ์โก (คุณหนึ่ง) ประสานงาน</p>
             </div>
-            <div class="mb-4">
-                <h3 class="font-semibold">Verification of Employment</h3>
-                <p>hr@flowbite.com</p>
-            </div>
+            
             <div class="mt-8">
-                <h2 class="text-2xl font-semibold mb-6">Our offices around the world</h2>
+                <h2 class="text-2xl font-semibold mb-6">ช่วงเวลาการติดต่อ </h2>
                 <div class="mb-4">
-                    <h3 class="font-semibold">Canada</h3>
-                    <p>5333 Avenue Casgrain #1201, Montréal, QC H2T 1X3</p>
+                    <h3 class="font-semibold">วันจัทร์-วันเสาร์</h3>
+                    <p>เวลา 08.00-17.00น.</p>
                 </div>
                 <div class="mb-4">
-                    <h3 class="font-semibold">Germany</h3>
-                    <p>Neue Schönhauser Str. 3-5, 10178 Berlin</p>
+                    <h3 class="font-semibold">แผนที่</h3>
+                    <p><a  class="hover:underline me-4 md:me-6" href="https://www.google.co.th/maps/search/%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88+93%2F9+%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0+13+%E0%B9%81%E0%B8%82%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3+1021/@13.8906173,100.5596514,17z/data=!3m1!4b1?hl=th&entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D">
+                        คลิกเพื่อเปิดแผนที่</a></p>
                 </div>
                 <div class="mb-4">
-                    <h3 class="font-semibold">France</h3>
-                    <p>266 Place Ernest Granier, 34000 Montpellier</p>
+                    <h3 class="font-semibold">ใบอนุญาตเลขที่</h3>
+                    <p>บริษัท นำคนต่างด้าวมาทำงานในประเทศ อทิตยา 2017 จำกัด</p>
                 </div>
             </div>
         </div>

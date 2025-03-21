@@ -110,7 +110,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div class="text-center">
-                    <img class="w-full h-full  mx-auto mb-4" src="./image-home/office.png" alt="Jese Leos">
+                    <img class="w-full h-[100] mx-auto mb-4" src="./image-home/นำเข้าแรงงานคนใหม่ (MOU).webp" alt="Jese Leos">
                     <h3 class="text-lg font-semibold">นำเข้าแรงงานคนใหม่ (MOU)</h3>
                     <p class="text-sm text-gray-600">(พม่า,กัมพูชา,ลาว)</p>
                     <p class="text-sm text-left">บริการนำเข้าแรงงานคนใหม่ตามระบบ MOU
@@ -118,7 +118,7 @@
                 </div>
 
                 <div class="text-center">
-                    <img class="w-full h-full  mx-auto mb-4" src="./image-home/office.png" alt="Jese Leos">
+                    <img class="w-full h-[100]  mx-auto mb-4" src="./image-home/บริการต่ออายุเอกสารคนต่างด้าว.webp" alt="Jese Leos">
                     <h3 class="text-lg font-semibold">บริการต่ออายุเอกสารคนต่างด้าว</h3>
                     <p class="text-sm text-gray-600">(พม่า,กัมพูชา,ลาว)</p>
                     <p class="text-sm text-left">บริการต่ออายุเอกสารแรงงานต่างด้าว เช่น ต่อใบอนุญาตทำงาน รายงานตัว 90 วัน
@@ -126,7 +126,7 @@
                 </div>
 
                 <div class="text-center">
-                    <img class="w-full h-full  mx-auto mb-4" src="./image-home/office.png" alt="Jese Leos">
+                    <img class="w-full  h-[100]  mx-auto mb-4" src="./image-home/นำเข้าแรงงานต่างด้าวที่ครบวาระ 4 ปี และ 6 ปี.webp" alt="Jese Leos">
                     <h3 class="text-lg font-semibold">นำเข้าแรงงานต่างด้าวที่ครบวาระ 4 ปี และ 6 ปี </h3>
                     <p class="text-sm text-gray-600">(พม่า,กัมพูชา,ลาว)</p>
                     <p class="text-sm text-left">บริการนำเข้าแรงงานต่างด้าวที่ครบวาระ 4 ปี และ 6 ปี
@@ -137,9 +137,9 @@
             </div>
         </div>
     </section>
-    ิ<br>
-    ิ<br>
-    ิ<br>
+    <br>
+    <br>
+    <br>
 
 
 
@@ -191,8 +191,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">นำเข้าแรงงานต่างด้าว MOU</h3>
                     </div>
-                    <p class="text-gray-600">Flow Budget automatically categorizes your income and expenses, making it easy
-                        to track where your money is going.</p>
+                    <p class="text-gray-600">บริการนำเข้าแรงงานต่างด้าว 3 สัญชาติ พม่า,ลาว,กัมพูชา MOU ถูกต้องตามกฏหมาย พร้อมบริการตลอดสัญญาจ้างงาน </p>
                 </div>
 
                 <div class="flex flex-col items-start p-6 border border-gray-200 rounded-lg">
@@ -205,8 +204,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">นำเข้าแรงงานต่างด้าว MOU RETURN </h3>
                     </div>
-                    <p class="text-gray-600">The app offers a variety of budgeting methods, such as 50/30/20 rule, to help
-                        users find the approach that works best for them.</p>
+                    <p class="text-gray-600">MOU RETURN  ที่ครบการจ้าง 4 ปี  บริการนำเข้าแรงงานต่างด้าว MOU สัญชาติกัมพูชาม,สัญชาติลาว กรณีที่นายจ้างมีแรงงานเดิมอยู่แล้ว โดยแรงงานอยู่ที่ประเทศไทย</p>
                 </div>
 
             </div>
@@ -222,8 +220,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">ขึ้นทะเบียนแรงงานต่างด้าวตามนโยบายของรัฐบาล</h3>
                     </div>
-                    <p class="text-gray-600">Flow Budget automatically categorizes your income and expenses, making it easy
-                        to track where your money is going.</p>
+                    <p class="text-gray-600">บริการต่ออายุเอกสารแรงงานต่างด้าว ตาม มติคณะรัฐมนตรี ทุกมติ</p>
                 </div>
 
                 <div class="flex flex-col items-start p-6 border border-gray-200 rounded-lg mt-2">
@@ -236,8 +233,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">แจ้งเปลี่ยนนายจ้าง</h3>
                     </div>
-                    <p class="text-gray-600">The app offers a variety of budgeting methods, such as 50/30/20 rule, to help
-                        users find the approach that works best for them.</p>
+                    <p class="text-gray-600">แจ้งเปลี่ยนนายจ้างตาม พระราชกำหนดการบริหารจัดการการทำงานของคนต่างด้าว พ.ศ.2560 (แก้ไขเพิ่มเติมฉบับที่ 2 พ.ศ. 2561) กำหนดให้แรงงานต่างด้าวสามารถเปลี่ยนนายจ้างได้</p>
                 </div>
 
             </div>
@@ -253,8 +249,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">บริการต่ออายุเอกสารแรงงานต่างด้าว</h3>
                     </div>
-                    <p class="text-gray-600">Flow Budget automatically categorizes your income and expenses, making it easy
-                        to track where your money is going.</p>
+                    <p class="text-gray-600">บริการต่ออายุเอกสารแรงงานต่างด้าว ทุกประเภท</p>
                 </div>
 
                 <div class="flex flex-col items-start p-6 border border-gray-200 rounded-lg mt-2">
@@ -267,8 +262,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">บริการทำหนังสือเดินทาง</h3>
                     </div>
-                    <p class="text-gray-600">The app offers a variety of budgeting methods, such as 50/30/20 rule, to help
-                        users find the approach that works best for them.</p>
+                    <p class="text-gray-600">บริการทำหนังสือเดินทาง สำหรับแรงงานต่างด้าว สัญชาติ พม่า ลาว กัมพูชา อย่างมืออาชีพ</p>
                 </div>
 
             </div>
@@ -284,8 +278,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">บริการรับต่อ VISA</h3>
                     </div>
-                    <p class="text-gray-600">Flow Budget automatically categorizes your income and expenses, making it easy
-                        to track where your money is going.</p>
+                    <p class="text-gray-600">บริการรับต่อ VISA แรงงานต่างด้าว</p>
                 </div>
 
                 <div class="flex flex-col items-start p-6 border border-gray-200 rounded-lg mt-2">
@@ -298,8 +291,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">รายงานตัว 90 วัน</h3>
                     </div>
-                    <p class="text-gray-600">The app offers a variety of budgeting methods, such as 50/30/20 rule, to help
-                        users find the approach that works best for them.</p>
+                    <p class="text-gray-600">บริการจัดการการ รายงานตัว 90 วัน ของแรงงานต่างด้าว</p>
                 </div>
             </div>
 
@@ -314,8 +306,7 @@
                         </svg>
                         <h3 class="text-xl font-semibold text-gray-900">แจ้งแรงงานต่างด้าวเข้า – ออกจากงาน</h3>
                     </div>
-                    <p class="text-gray-600">Flow Budget automatically categorizes your income and expenses, making it easy
-                        to track where your money is going.</p>
+                    <p class="text-gray-600">บริการแจ้งเข้า-แจ้งออก แรงงานต่างด้าวถูกต้องตามกฏหมาย</p>
                 </div>
 
                 <div class="flex flex-col items-start p-6 border border-gray-200 rounded-lg mt-2">
@@ -329,8 +320,7 @@
                         <h3 class="text-xl font-semibold text-gray-900">รับบริหารจัดการแรงงานต่างด้าวในโรงงานแทนฝ่ายบุคคล
                         </h3>
                     </div>
-                    <p class="text-gray-600">The app offers a variety of budgeting methods, such as 50/30/20 rule, to help
-                        users find the approach that works best for them.</p>
+                    <p class="text-gray-600">บริการรับ บริหารจัดการแรงงานต่างด้าวแทนฝ่ายบุคคล ในโรงงาน ลดภาระนายจ้างเรื่องเอกสารแรงงานต่างด้าว</p>
                 </div>
             </div>
 
