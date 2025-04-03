@@ -27,17 +27,14 @@
             </div>
         </div>
     </section>
-
-    <div id="animation-carousel" class="relative w-full mx-auto max-w-screen-xl" data-carousel="static">
-        <!-- Carousel wrapper -->
-        <div class="relative verflow-hidden rounded-lg md:h-96">
+    <div id="animation-carousel" class="relative w-800px h-600px mx-auto max-w-screen-xl">
+        <div class="relative overflow-hidden rounded-lg">
             <div class="duration-200 ease-linear" data-carousel-item style="display: block;">
-                <img src="./image-mou/mou-0.png" class="absolute block w-full"
-                    alt="...">
+                <img src="./image-mou/mou-0.png" class="block w-full h-full object-contain" alt="...">
             </div>
         </div>
-        </di>
     </div>
+
 
     <aside aria-label="Related articles" class="py-8 lg:py-12 bg-white dark:bg-gray-800 mx-full ">
         <div class="px-4 mx-auto max-w-screen-xl ">
