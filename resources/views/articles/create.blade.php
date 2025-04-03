@@ -12,6 +12,7 @@
     <form action="{{ route('articles.store') }}" method="POST" enctype="multipart/form-data"
         class="max-w-7xl mx-auto p-6 bg-white rounded-lg shadow-md">
         @csrf
+        @method('POST')
 
         <div class="mb-4">
             <label for="title" class="block text-sm font-medium text-gray-1200">Title</label>

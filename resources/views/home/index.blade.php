@@ -333,48 +333,32 @@
 
 
 
-    <section class="bg-gray-50  py-12">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">ข่าวสาร และความรู้</h2>
-            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-                <div class="border border-gray-200 rounded-lg p-6">
-                    <div class="flex justify-center mb-4">
-                        <img src="your-image-1.jpg" alt="Article 1" class="h-40 w-full object-cover rounded-md">
-                    </div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">แรงงานต่างด้าว MOU คืออะไร</h3>
-                    <p class="text-gray-600 mb-4">Over the past year, Volosoft has undergone many changes! After months of
-                        preparation.</p>
-                    <a href="#" class="text-blue-600 hover:underline">Read in 2 minutes</a>
-                </div>
-                <div class="border border-gray-200 rounded-lg p-6">
-                    <div class="flex justify-center mb-4">
-                        <img src="your-image-2.jpg" alt="Article 2" class="h-40 w-full object-cover rounded-md">
-                    </div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">สวัสดิการ และประกันสังคมแรงงานต่างด้าว</h3>
-                    <p class="text-gray-600 mb-4">Over the past year, Volosoft has undergone many changes! After months of
-                        preparation.</p>
-                    <a href="#" class="text-blue-600 hover:underline">Read in 12 minutes</a>
-                </div>
-                <div class="border border-gray-200 rounded-lg p-6">
-                    <div class="flex justify-center mb-4">
-                        <img src="your-image-3.jpg" alt="Article 3" class="h-40 w-full object-cover rounded-md">
-                    </div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">สิ่งที่นายจ้างต้องรู้ ก่อนจ้างแรงงานต่างด้าว</h3>
-                    <p class="text-gray-600 mb-4">Over the past year, Volosoft has undergone many changes! After months of
-                        preparation.</p>
-                    <a href="#" class="text-blue-600 hover:underline">Read in 8 minutes</a>
-                </div>
-                <div class="border border-gray-200 rounded-lg p-6">
-                    <div class="flex justify-center mb-4">
-                        <img src="your-image-4.jpg" alt="Article 4" class="h-40 w-full object-cover rounded-md">
-                    </div>
-                    <h3 class="text-xl font-semibold text-gray-900 mb-2">การจ้างแรงงานต่างด้าว</h3>
-                    <p class="text-gray-600 mb-4">Over the past year, Volosoft has undergone many changes! After months of
-                        preparation.</p>
-                    <a href="#" class="text-blue-600 hover:underline">Read in 4 minutes</a>
-                </div>
+    <aside aria-label="Related articles" class="py-8 lg:py-12 bg-gray-100 dark:bg-gray-800 mx-full ">
+        <div class="px-4 mx-auto max-w-screen-xl ">
+            <h2 class="mb-8 text-2xl font-bold text-gray-900 dark:text-white ">บริการของเรา และข่าวสาร</h2>
+            <div class="grid gap-12 sm:grid-cols-3 lg:grid-cols-3 justify-center">
+                @foreach ($articles as $article)
+                    
+                <article class="max-w-xs">
+                    <a href="{{url('articles/'.$article->id)}}">
+                        <img src="{{url($article->image_path)}}" class="mb-5 rounded-lg" alt="Image 1">
+                    </a>
+                    <h5 class="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
+                        <a href="#">{{$article->title}}</a>
+                    </h5>
+                    
+                    <p class="mb-4 text-gray-500 dark:text-gray-400">
+                        {!! Str::limit(strip_tags(preg_replace('/<img[^>]+>/i', '', $article->content)), 120) !!}
+                    </p>
+                    <a href="{{url('articles/'.$article->id)}}" class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline">
+                        อ่านเพิ่มเติม..
+                    </a>
+                </article>
+                @endforeach
+    
             </div>
         </div>
-    </section>
+    
+      </aside>
 
 @endsection

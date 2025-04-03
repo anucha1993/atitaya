@@ -39,18 +39,16 @@ class ArticleController extends Controller
             'content' => 'required',
             'image' => 'image|mimes:jpeg,png,jpg,gif,webp|max:2048', // ตรวจสอบไฟล์ภาพที่อัปโหลด
         ]);
-
         // กำหนดค่า default ให้กับ imagePath
         $imagePath = null;
 
-        if ($request->hasFile('image')) {
-            $file = $request->file('image');
-            $fileName = time() . '_' . $file->getClientOriginalName();
-            $filePath = $file->storeAs('uploads', $fileName, 'public');
-
-            // กำหนด path สำหรับบันทึกในฐานข้อมูล โดยไม่ใช้ Storage::url()
-            $imagePath = 'storage/uploads/' . $fileName;
-        }
+    if ($request->hasFile('image')) {
+        $file = $request->file('image');
+        $fileName = time() . '_' . $file->getClientOriginalName();
+        $destinationPath = public_path('uploads'); // กำหนด path ใน public
+        $file->move($destinationPath, $fileName);
+        $imagePath = 'uploads/' . $fileName; // บันทึก path ในฐานข้อมูล
+    }
 
         // บันทึกข้อมูลบทความลงใน articles รวมถึง path ของรูปภาพ
         $article = Article::create([
