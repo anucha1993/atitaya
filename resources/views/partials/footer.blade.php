@@ -3,46 +3,63 @@
         <div>
             <h2 class="text-xl font-semibold mb-6">บริษัท นําคนต่างด้าวมาทํางานในประเทศ อทิตยา 2017 จํากัด</h2>
             <div class="mb-4">
-                <h3 class="font-semibold">ที่อยู่ :</h3>
-                <p>เลขที่ 93/9 ซอยแจ้งวัฒนะ 13 แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร 1021</p>
+                <span><b>ที่อยู่ :</b> เลขที่ 93/9 ซอยแจ้งวัฒนะ 13 แขวงทุ่งสองห้อง เขตหลักสี่ กรุงเทพมหานคร 1021</span>
             </div>
             <div class="mb-4">
-                <h3 class="font-semibold">อีเมล</h3>
-                <p>atitaya_2017@htomail.com</p>
+                <span><b>อีเมล : </b>atitaya_2017@hotmail.com</span>
             </div>
             <div class="mb-4">
-                <h3 class="font-semibold">เบอร์ติดต่อ :</h3>
-                <p>092-254-5155 คุณหนึ่งฤทัย เศรษฐศักดิ์โก (คุณหนึ่ง) ประสานงาน</p>
+                <span><b>เบอร์ติดต่อ : </b>092-254-5155 คุณหนึ่งฤทัย เศรษฐศักดิ์โก (คุณหนึ่ง) ประสานงาน</span>
             </div>
-            
-            <div class="mt-8">
-                <h2 class="text-2xl font-semibold mb-6">ช่วงเวลาการติดต่อ </h2>
+
+            <div class="mt-1">
+                <h2 class="text-2xl font-semibold mb-2">ช่วงเวลาการติดต่อ </h2>
                 <div class="mb-4">
-                    <h3 class="font-semibold">วันจัทร์-วันเสาร์</h3>
-                    <p>เวลา 08.00-17.00น.</p>
+                    <span><b>วันจัทร์-วันเสาร์ :</b> เวลา 08.00-17.00น.</span>
+
                 </div>
-                <div class="mb-4">
-                    <h3 class="font-semibold">แผนที่</h3>
-                    <p><a  class="hover:underline me-4 md:me-6" href="https://www.google.co.th/maps/search/%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88+93%2F9+%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0+13+%E0%B9%81%E0%B8%82%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3+1021/@13.8906173,100.5596514,17z/data=!3m1!4b1?hl=th&entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D">
-                        คลิกเพื่อเปิดแผนที่</a></p>
+                <div class="mb-2">
+                    <span><b>แผนที่</b><a class="hover:underline me-4 md:me-6"
+                            href="https://www.google.co.th/maps/search/%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%97%E0%B8%B5%E0%B9%88+93%2F9+%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0+13+%E0%B9%81%E0%B8%82%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87+%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B5%E0%B9%88+%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3+1021/@13.8906173,100.5596514,17z/data=!3m1!4b1?hl=th&entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D">
+                            คลิกเพื่อเปิดแผนที่</a></span>
+
                 </div>
-                <div class="mb-4">
-                    <h3 class="font-semibold">ใบอนุญาตเลขที่</h3>
-                    <p>บริษัท นำคนต่างด้าวมาทำงานในประเทศ อทิตยา 2017 จำกัด</p>
+                <div class="mb-0">
+                    <span><b>ใบอนุญาตเลขที่ :</b> นจ.0069/2560</span>
+                    
+                </div>
+
+                <div>
+
+
                 </div>
             </div>
+            <div class="mb-0">
+
+                <div class="text-center">
+                   <img src="{{ asset('images-footer/footerss.png') }}" alt="ภาพหน้าบริษัท" class="block h-120 w-auto mx-auto rounded-lg ">
+                </div>
+            </div>
+
         </div>
+
+
+
+        {{-- <iframe class="w-full h-1000 border-0 rounded-lg shadow" loading="lazy" allowfullscreen
+                        src="{{ asset('images-footer/footerss.png') }}"></iframe> --}}
 
         <div class="bg-gray-100 px-5">
             <h2 class="text-2xl font-semibold mb-6">กรอกข้อมูลเพื่อให้เจ้าหน้าที่ติดต่อกลับ</h2>
             <form>
                 <div class="mb-4">
-                    <label for="email" class="block text-sm font-medium text-gray-700">อีเมล (อีเมลที่สามารถติดต่อกลับได้)</label>
+                    <label for="email" class="block text-sm font-medium text-gray-700">อีเมล
+                        (อีเมลที่สามารถติดต่อกลับได้)</label>
                     <input type="email" name="email" id="email" class="mt-1 p-2 w-full border rounded-md"
-                        placeholder="name@flowbite.com">
+                        placeholder="name@gmail.com">
                 </div>
                 <div class="mb-4">
-                    <label for="topic" class="block text-sm font-medium text-gray-700">จังหวัดที่ต้องการจ้างแรงงานต่างด้าว</label>
+                    <label for="topic"
+                        class="block text-sm font-medium text-gray-700">จังหวัดที่ต้องการจ้างแรงงานต่างด้าว</label>
                     <select id="topic" name="topic" class="mt-1 p-2 w-full border rounded-md">
                         <option>กรุณาเลือกจังหวัด</option>
                         <option>General Inquiry</option>
@@ -63,22 +80,30 @@
                 <div class="mb-4 flex items-center">
                     <input id="agree" type="checkbox"
                         class="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded">
-                    <label for="agree" class="ml-2 block text-sm text-gray-700">การส่งแบบฟอร์มนี้แสดงว่าคุณยืนยันว่าคุณได้อ่านและยอมรับของเรา<a href="#"
-                            class="text-blue-600 hover:underline">Terms of Service</a> and <a href="#"
-                            class="text-blue-600 hover:underline">Privacy Statement</a>.</label>
+                    <label for="agree"
+                        class="ml-2 block text-sm text-gray-700">การส่งแบบฟอร์มนี้แสดงว่าคุณยืนยันว่าคุณได้อ่านและยอมรับของเรา<a
+                            href="#" class="text-blue-600 hover:underline">Terms of Service</a> and <a
+                            href="#" class="text-blue-600 hover:underline">Privacy Statement</a>.</label>
                 </div>
-                <button type="submit" class="w-full bg-blue-700 text-white p-2 rounded-md hover:bg-blue-700">ส่งแบบฟอร์ม</button>
+                <button type="submit"
+                    class="w-full bg-blue-700 text-white p-2 rounded-md hover:bg-blue-700">ส่งแบบฟอร์ม</button>
             </form>
+
+
         </div>
     </div>
+
+
 </section>
+
 
 <footer
     class="bottom-0left-0 z-20 w-full  bg-blue-800 border-t border-gray-200 shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-gray-800 dark:border-gray-600">
     <span class="text-sm text-white sm:text-center dark:text-gray-400">© 2024 <a href="https://flowbite.com/"
             class="hover:underline">Anucha Yothanan</a>. All Rights Reserved.
     </span>
-    <ul class="flex text-white flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
+    <ul
+        class="flex text-white flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
             <a href="#" class="hover:underline me-4 md:me-6">หน้าแรก</a>
         </li>
@@ -95,4 +120,5 @@
             <a href="#" class="hover:underline">ติดต่อเรา</a>
         </li>
     </ul>
+
 </footer>
